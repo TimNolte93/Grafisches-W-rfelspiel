@@ -1,0 +1,15 @@
+# Python-Müll (automatisch generiert)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code Einstellungen (dein persönliches Setup)
+.vscode/
+
+# Spieldaten (deine persönlichen Saves & Highscores)
+saves/
+leaderboard.json
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
